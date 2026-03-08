@@ -2,6 +2,13 @@
 
 A comprehensive physics-based household management platform that integrates seamlessly with the Extropy unified ecosystem, transforming how families coordinate daily life through measurable value creation.
 
+## Ecosystem Integration
+
+> **Ecosystem Note:** This is the standalone Python service. The deployed TypeScript equivalent lives in the [extropy-engine](https://github.com/00ranman/extropy-engine) monorepo at `packages/homeflow` (port 4015).
+>
+> See [ECOSYSTEM_MAP.md](https://github.com/00ranman/extropy-engine/blob/main/ECOSYSTEM_MAP.md) for the full repository mapping.
+
+
 ## 🏠 Vision
 
 HomeFlow revolutionizes household management by bringing physics-based coordination to family life:
