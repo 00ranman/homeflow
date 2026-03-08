@@ -19,9 +19,9 @@ from aiohttp import web, WSMsgType
 import aiohttp_cors
 import sqlite3
 
-# Import unified integration
+# ImportImport Extropy Engine bridge (replaces old unified_integration)
 sys.path.append(os.path.dirname(__file__))
-from unified_integration import (
+fromextropy_bridge import (
     initialize_integration, track_chore_completion, track_inventory_management,
     track_meal_preparation, track_health_optimization, create_household_task_in_signalflow,
     get_integration_status, integration
